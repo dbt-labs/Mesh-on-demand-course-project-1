@@ -1,4 +1,8 @@
-
+groups:
+  - name: finance
+    owner:
+      name: Finance Team
+      email: finance_and_marketing@jaffle.shop
 models:
   - name: stg_stripe__payment
     group: finance
