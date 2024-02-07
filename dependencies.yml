@@ -1,2 +1,2 @@
-projects:
-  - name: jaffle_customer_service  # matches the 'name' in their 'dbt_project.yml'
+#projects:
+#  - name: jaffle_customer_service  # matches the 'name' in their 'dbt_project.yml'
